@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinusRatios", "PlusMinusRatios\PlusMinusRatios.csproj", "{44A292E4-F78A-4248-A9BB-43EBBF3D8CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-MaxSum", "Mini-MaxSum\Mini-MaxSum.csproj", "{10E2E576-BA92-4A25-BAE2-0ADCAA8418B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A292E4-F78A-4248-A9BB-43EBBF3D8CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A292E4-F78A-4248-A9BB-43EBBF3D8CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A292E4-F78A-4248-A9BB-43EBBF3D8CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A292E4-F78A-4248-A9BB-43EBBF3D8CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E2E576-BA92-4A25-BAE2-0ADCAA8418B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E2E576-BA92-4A25-BAE2-0ADCAA8418B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E2E576-BA92-4A25-BAE2-0ADCAA8418B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E2E576-BA92-4A25-BAE2-0ADCAA8418B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A75DB22-595E-4395-8606-4AF85BDCE88B}
+	EndGlobalSection
+EndGlobal
